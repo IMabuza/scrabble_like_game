@@ -1,8 +1,3 @@
-# Problem Set 5: 6.00 Word Game
-# Name: 
-# Collaborators: 
-# Time: 
-#
 
 import random
 import string
